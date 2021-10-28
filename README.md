@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @milan.
 - 👀 I’m interested in discord development & game development 
-- 🌱 I’m currently learning C#, Python and JavaScript
+- 🌱 I’m currently learning C#, HTML, C++, Python and JavaScript
 - 💞️ I’m looking to collaborate on Discord Bot devs and game devs (Unity)
 - 📫 How to reach me: gmail:  speedy.neon07@gmail.com  or  milan.#9283 on Discord
