@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spidibog
+- 👋 Hi, I’m @milan.
 - 👀 I’m interested in discord development & game development 
 - 🌱 I’m currently learning C#, Python and JavaScript
 - 💞️ I’m looking to collaborate on Discord Bot devs and game devs (Unity)
